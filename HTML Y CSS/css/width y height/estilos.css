@@ -1,0 +1,10 @@
+input{
+    width: 90%;
+    text-align: center;
+}
+form{
+    width: 300px;
+}
+.subir{
+    font-style: italic;
+}

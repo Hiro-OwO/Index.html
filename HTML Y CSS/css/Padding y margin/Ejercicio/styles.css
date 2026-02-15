@@ -1,0 +1,14 @@
+body{
+    background: linear-gradient(180deg,rgb(30, 30, 30) 0%, rgb(20, 20, 20) 100%);
+    color: white;
+}
+.card{
+    background: linear-gradient(180deg,rgba(156, 156, 156, 1) 0%, rgba(112, 112, 112, 1) 6%, rgba(74, 74, 74, 1) 100%);
+    text-align: center;
+    padding: 200px 50px;
+    margin: auto;
+    max-width: 250px;
+}
+h2{
+    font-weight: bolder;
+}
